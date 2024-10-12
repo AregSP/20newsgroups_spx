@@ -9,10 +9,10 @@ An ensemble model was trained to achieve high accuracy in predicting the topic o
 The goal is to efficiently classify documents into their respective topics using advanced machine learning techniques.
 
 # Models Used
-Multinomial Naive Bayes, Logistic Regression and SVM trained with Stochastic Gradient Descent (scikit-learn's MultinomialNB, SGDClassifier with hinge loss and SGDClassifier with log_loss respectively).
+Multinomial Naive Bayes, Logistic Regression and SVM trained with Stochastic Gradient Descent (scikit-learn's MultinomialNB, SGDClassifier with hinge loss and SGDClassifier with log_loss respectively), for their ability to effectively handle large datasets with thousands of features.
 
 # Results
-The ensemble model of these 3 achieved an impressive 92% F1 score in predicting the topics of documents, demonstrating its effectiveness in text classification tasks.
+The ensemble of models mentioned above achieved an impressive 92% F1 score in predicting the topics of documents, demonstrating its effectiveness in text classification tasks.
 
 ### Citation
 
