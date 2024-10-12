@@ -10,6 +10,8 @@ The goal is to efficiently classify documents into their respective topics using
 
 # Models Used
 Multinomial Naive Bayes, Logistic Regression and SVM trained with Stochastic Gradient Descent (scikit-learn's MultinomialNB, SGDClassifier with hinge loss and SGDClassifier with log_loss respectively).
+
+# Results
 The ensemble model of these 3 achieved an impressive 92% F1 score in predicting the topics of documents, demonstrating its effectiveness in text classification tasks.
 
 ### Citation
